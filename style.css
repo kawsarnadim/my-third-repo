@@ -1,11 +1,11 @@
 body{
     padding: 0%;
-    margin: 40px;
+    margin: 60px;
 }
 .round{
     background-color: rgb(4, 53, 4);
-    height: 600px;
-    width: 800px;
+    height: 650px;
+    width: 900px;
     display: flex;
     justify-content: center;
     align-items: center;
