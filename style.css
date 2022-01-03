@@ -1,0 +1,19 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.round{
+    background-color: rgb(4, 53, 4);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.circle{
+    background-color: rgb(238, 22, 22);
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
